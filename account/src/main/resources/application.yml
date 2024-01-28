@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: muratDb
+      uri: mongodb://localhost:27017
